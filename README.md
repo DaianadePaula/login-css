@@ -1,6 +1,6 @@
 # Login
 
-<img src="print-project-login.png" alt="login imagem">
+<img src="./assets/print-project-login.png" alt="login imagem">
 
 > Feito com HTML e CSS.
 
